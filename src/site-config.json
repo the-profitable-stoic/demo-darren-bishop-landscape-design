@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Darren Bishop Landscape-Design",
+    "phone": "+16159454224",
+    "category": "landscaping company",
+    "city": "Nashville",
+    "state": "TN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Nashville's Landscape Design Experts",
+      "heroSubline": "Transforming outdoor spaces across Middle Tennessee. Expert design, installation, and maintenance.",
+      "aboutTitle": "Crafting Landscapes, Building Relationships",
+      "aboutText": [
+        "Darren Bishop Landscape-Design started with a simple mission: to bring exceptional landscape design and installation to Nashville and the surrounding areas. We're not just planting trees and laying patios; we're creating outdoor living spaces that enhance your home and lifestyle.",
+        "Our approach is rooted in collaboration. We listen to your vision, assess your property's unique characteristics, and develop a design that reflects your personal style and complements the local architecture. We value open communication, meticulous attention to detail, and a commitment to exceeding your expectations.",
+        "We're proud to be a part of the Nashville community. From supporting local nurseries to volunteering in neighborhood beautification projects, we're invested in the growth and well-being of our city. We believe in sustainable practices and strive to minimize our environmental impact in every project we undertake."
+      ],
+      "valueProps": [
+        {
+          "title": "Custom Designs",
+          "description": "Unique landscape plans tailored to your property and aesthetic preferences."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Skilled team ensures precise execution and lasting beauty."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Nashville's climate, soil, and plant life."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Prompt communication, on-time completion, and unwavering commitment to quality."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Yard?",
+      "ctaSubline": "Contact us today for a free consultation and let's bring your landscaping dreams to life."
+    },
+    "services": [
+      {
+        "slug": "landscape-design",
+        "name": "Landscape Design",
+        "shortDescription": "Comprehensive design services to create your dream outdoor space.",
+        "description": "Our landscape design process begins with a thorough consultation to understand your needs, preferences, and budget. We then conduct a site analysis, considering factors such as soil conditions, sunlight exposure, and existing vegetation. Based on this information, we develop a custom design plan that incorporates your desired features, such as patios, walkways, gardens, and water features.\n\nWe use advanced design software to create detailed renderings and 3D models, allowing you to visualize the final product before construction begins. Our team will work closely with you throughout the design process to ensure that the plan meets your exact specifications and exceeds your expectations.\n\nWhether you're looking to create a tranquil retreat, an entertainment-ready outdoor living space, or simply enhance your curb appeal, our landscape design services can help you achieve your goals. We are experts at maximizing small spaces in areas like The Gulch and creating sprawling backyard designs in areas like Brentwood.",
+        "process": [
+          "Initial Consultation: Discuss your vision and budget.",
+          "Site Analysis: Evaluate your property's unique characteristics.",
+          "Design Development: Create a custom landscape plan.",
+          "Presentation & Refinement: Review and adjust the design until it's perfect."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced outdoor living space",
+          "Improved curb appeal",
+          "Sustainable and environmentally friendly design"
+        ],
+        "faq": [
+          {
+            "question": "How much does landscape design cost?",
+            "answer": "The cost of landscape design varies depending on the size and complexity of the project. We offer free consultations to provide you with a detailed estimate."
+          },
+          {
+            "question": "How long does the design process take?",
+            "answer": "The design process typically takes several weeks, depending on the scope of the project and the number of revisions required. We will keep you informed throughout the process and ensure that the design is completed in a timely manner."
+          },
+          {
+            "question": "Do you offer design-only services?",
+            "answer": "Yes, we offer design-only services for clients who prefer to handle the installation themselves. We can provide you with detailed plans and specifications to ensure that the project is completed to your satisfaction."
+          }
+        ]
+      },
+      {
+        "slug": "hardscaping",
+        "name": "Hardscaping",
+        "shortDescription": "Expert installation of patios, walkways, retaining walls, and other hardscape features.",
+        "description": "Hardscaping forms the backbone of any well-designed landscape, providing structure, functionality, and visual appeal. At Darren Bishop Landscape-Design, we specialize in the design and installation of a wide range of hardscape features, including patios, walkways, retaining walls, fire pits, and outdoor kitchens.\n\nWe use only the highest quality materials, such as natural stone, brick, and concrete pavers, to ensure that your hardscape features are not only beautiful but also durable and long-lasting. Our experienced team will handle every aspect of the installation process, from site preparation to final finishing, ensuring that the project is completed to the highest standards of quality.\n\nWhether you're looking to create a cozy patio for outdoor dining, a winding walkway through your garden, or a sturdy retaining wall to prevent erosion, our hardscaping services can help you transform your outdoor space into a functional and aesthetically pleasing environment. We are experienced with Nashville's limestone bedrock and drainage challenges to create long-lasting designs.",
+        "process": [
+          "Site Assessment: Evaluate the area for drainage and soil stability.",
+          "Material Selection: Choose the best materials for your design and budget.",
+          "Installation: Professional installation with attention to detail.",
+          "Final Inspection: Ensure quality and customer satisfaction."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced outdoor living space",
+          "Improved functionality",
+          "Durable and long-lasting features"
+        ],
+        "faq": [
+          {
+            "question": "What types of materials do you use for hardscaping?",
+            "answer": "We use a variety of materials, including natural stone, brick, concrete pavers, and composite materials. We can help you choose the best materials for your specific needs and budget."
+          },
+          {
+            "question": "How long does hardscaping installation take?",
+            "answer": "The installation time varies depending on the size and complexity of the project. We will provide you with a detailed timeline before starting the work."
+          },
+          {
+            "question": "Do you offer warranties on your hardscaping installations?",
+            "answer": "Yes, we offer warranties on all of our hardscaping installations. Please contact us for more information about our warranty terms."
+          }
+        ]
+      },
+      {
+        "slug": "softscaping",
+        "name": "Softscaping",
+        "shortDescription": "Planting, gardening, and other softscape services to add beauty and life to your landscape.",
+        "description": "Softscaping is the art of incorporating living elements into your landscape, adding beauty, color, and texture. At Darren Bishop Landscape-Design, we offer a comprehensive range of softscaping services, including planting trees, shrubs, flowers, and groundcover; creating garden beds; installing sod and artificial turf; and providing ongoing maintenance to keep your landscape looking its best.\n\nWe carefully select plants that are well-suited to Nashville's climate and soil conditions, ensuring that they thrive and flourish in your landscape. Our team has extensive knowledge of local flora and can help you choose the right plants to create the desired aesthetic and functionality.\n\nWhether you're looking to create a vibrant flower garden, a lush green lawn, or a tranquil woodland setting, our softscaping services can help you bring your vision to life. We know what plants thrive in the hot Nashville summers and can help you choose the best options.",
+        "process": [
+          "Plant Selection: Choose plants that thrive in Nashville's climate.",
+          "Soil Preparation: Ensure proper soil conditions for healthy growth.",
+          "Planting & Mulching: Expert planting and mulching techniques.",
+          "Watering & Maintenance: Provide initial watering and maintenance guidance."
+        ],
+        "benefits": [
+          "Enhanced beauty and curb appeal",
+          "Improved air quality",
+          "Increased biodiversity",
+          "Reduced soil erosion"
+        ],
+        "faq": [
+          {
+            "question": "What types of plants do you recommend for Nashville?",
+            "answer": "We recommend a variety of plants that are well-suited to Nashville's climate, including native species such as dogwoods, redbuds, and coneflowers. We can also recommend drought-tolerant plants for low-maintenance landscapes."
+          },
+          {
+            "question": "How often should I water my plants?",
+            "answer": "The watering frequency depends on the type of plant, the soil conditions, and the weather. We can provide you with specific watering recommendations based on your landscape."
+          },
+          {
+            "question": "Do you offer ongoing maintenance services?",
+            "answer": "Yes, we offer ongoing maintenance services, including mowing, pruning, fertilizing, and pest control. We can customize a maintenance plan to meet your specific needs and budget."
+          }
+        ]
+      },
+      {
+        "slug": "irrigation-systems",
+        "name": "Irrigation Systems",
+        "shortDescription": "Design and installation of efficient irrigation systems to keep your landscape healthy and thriving.",
+        "description": "Proper irrigation is essential for maintaining a healthy and vibrant landscape, especially during Nashville's hot and humid summers. At Darren Bishop Landscape-Design, we specialize in the design and installation of efficient irrigation systems that deliver water precisely where it's needed, minimizing waste and promoting healthy plant growth.\n\nWe offer a variety of irrigation systems, including drip irrigation, sprinkler systems, and smart irrigation controllers. Our team will assess your landscape's specific needs and recommend the best system for your situation.\n\nWe also offer ongoing maintenance and repair services to ensure that your irrigation system is functioning properly and efficiently. From fixing leaks to adjusting sprinkler heads, we can handle all of your irrigation needs.",
+        "process": [
+          "Water Audit: Assess your landscape's water needs.",
+          "System Design: Create a customized irrigation plan.",
+          "Installation: Professional installation with minimal disruption.",
+          "Programming & Training: Set up the controller and provide user training."
+        ],
+        "benefits": [
+          "Water conservation",
+          "Healthy and thriving plants",
+          "Reduced maintenance",
+          "Automated watering schedule"
+        ],
+        "faq": [
+          {
+            "question": "How much water can I save with an efficient irrigation system?",
+            "answer": "An efficient irrigation system can save you up to 50% on your water bill compared to manual watering. We can help you calculate your potential savings."
+          },
+          {
+            "question": "What is a smart irrigation controller?",
+            "answer": "A smart irrigation controller uses weather data and soil moisture sensors to automatically adjust the watering schedule based on actual conditions. This helps to conserve water and prevent overwatering."
+          },
+          {
+            "question": "Do you offer winterization services for irrigation systems?",
+            "answer": "Yes, we offer winterization services to protect your irrigation system from freezing temperatures. We will drain the system and insulate vulnerable components to prevent damage."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-lighting",
+        "name": "Outdoor Lighting",
+        "shortDescription": "Enhance the beauty and safety of your property with professional outdoor lighting solutions.",
+        "description": "Outdoor lighting can transform your landscape, adding beauty, security, and functionality. At Darren Bishop Landscape-Design, we offer a wide range of outdoor lighting solutions, including pathway lighting, landscape lighting, security lighting, and patio lighting.\n\nWe use only high-quality fixtures and energy-efficient LED bulbs to ensure that your outdoor lighting is not only beautiful but also cost-effective and long-lasting. Our team will work with you to design a lighting plan that enhances the architectural features of your home, highlights your landscape's best features, and provides safety and security.\n\nWe handle every aspect of the installation process, from wiring to fixture placement, ensuring that the project is completed to the highest standards of quality. We can help you create a warm and inviting atmosphere for outdoor entertaining or simply add a touch of elegance to your property.",
+        "process": [
+          "Design Consultation: Discuss your lighting goals and preferences.",
+          "Lighting Plan: Create a custom lighting design.",
+          "Installation: Professional installation with attention to detail.",
+          "Adjustment & Fine-Tuning: Adjust the lighting for optimal effect."
+        ],
+        "benefits": [
+          "Enhanced beauty and curb appeal",
+          "Increased security",
+          "Improved safety",
+          "Extended outdoor living space"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of LED outdoor lighting?",
+            "answer": "LED outdoor lighting is energy-efficient, long-lasting, and produces a bright, natural-looking light. It also requires less maintenance than traditional lighting options."
+          },
+          {
+            "question": "Can you automate my outdoor lighting system?",
+            "answer": "Yes, we can install timers and sensors to automate your outdoor lighting system, making it more convenient and energy-efficient."
+          },
+          {
+            "question": "Do you offer maintenance services for outdoor lighting?",
+            "answer": "Yes, we offer maintenance services, including bulb replacement, fixture cleaning, and wiring repairs."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-solutions",
+        "name": "Drainage Solutions",
+        "shortDescription": "Expert drainage solutions to protect your property from water damage.",
+        "description": "Nashville's frequent heavy rains can cause serious drainage problems, leading to soil erosion, flooding, and damage to your home's foundation. At Darren Bishop Landscape-Design, we specialize in providing effective drainage solutions to protect your property from water damage.\n\nWe offer a variety of drainage solutions, including French drains, surface drains, and swales. Our team will assess your property's drainage issues and recommend the best solution for your situation.\n\nWe handle every aspect of the installation process, from excavation to pipe laying, ensuring that the project is completed to the highest standards of quality. We understand the unique challenges posed by Nashville's clay soil and limestone bedrock, and we have the expertise to design and install drainage systems that will effectively manage stormwater runoff.",
+        "process": [
+          "Site Evaluation: Assess drainage problems and identify sources of water.",
+          "Solution Design: Create a customized drainage plan.",
+          "Excavation & Installation: Professional installation of drainage systems.",
+          "Testing & Verification: Ensure proper drainage and functionality."
+        ],
+        "benefits": [
+          "Protection from water damage",
+          "Prevention of soil erosion",
+          "Improved property value",
+          "Enhanced landscape health"
+        ],
+        "faq": [
+          {
+            "question": "What is a French drain?",
+            "answer": "A French drain is a trench filled with gravel or rock that contains a perforated pipe. It is designed to collect and redirect water away from your home's foundation or other areas that are prone to flooding."
+          },
+          {
+            "question": "How do I know if I need a drainage solution?",
+            "answer": "Signs that you may need a drainage solution include standing water in your yard, soil erosion, water damage to your home's foundation, and a musty odor in your basement."
+          },
+          {
+            "question": "Do you offer warranties on your drainage installations?",
+            "answer": "Yes, we offer warranties on all of our drainage installations. Please contact us for more information about our warranty terms."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Franklin",
+        "slug": "franklin-tn",
+        "state": "TN",
+        "content": "Darren Bishop Landscape-Design is proud to offer our expert landscaping services to the beautiful city of Franklin, Tennessee. Known for its historic downtown and stunning antebellum homes, Franklin presents unique landscaping opportunities and challenges. We understand the importance of preserving the character of these properties while creating outdoor spaces that are both functional and aesthetically pleasing.\n\nOur team has extensive experience working with the specific needs of Franklin landscapes, from designing historically accurate gardens to creating modern outdoor living spaces that complement the area's architectural heritage. We take into account the hot, humid summers of middle Tennessee when selecting plants and designing irrigation systems, ensuring your landscape thrives year-round. We're committed to providing top-quality service to the Franklin community.",
+        "localContext": "Franklin is known for its historic downtown area with well-preserved antebellum homes, creating a unique landscaping context.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Thompson's Station",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Murfreesboro",
+        "slug": "murfreesboro-tn",
+        "state": "TN",
+        "content": "Darren Bishop Landscape-Design is dedicated to providing exceptional landscaping services to the growing community of Murfreesboro, Tennessee. With its many affordable family developments, Murfreesboro offers a diverse range of landscaping needs, from creating functional family-friendly yards to enhancing curb appeal for new homes. We work closely with homeowners to design and install landscapes that meet their specific needs and budgets.\n\nWe understand the importance of creating outdoor spaces that are both beautiful and practical for families. From designing play areas for children to creating relaxing patios for adults, we can help you create the perfect outdoor oasis. We also take into account the hot, humid summers of middle Tennessee when selecting plants and designing irrigation systems, ensuring your landscape thrives year-round. Darren Bishop Landscape-Design is committed to providing top-quality service to the Murfreesboro community.",
+        "localContext": "Murfreesboro's landscape is characterized by its many affordable family developments, requiring practical and family-friendly landscape designs.",
+        "nearbyAreas": [
+          "Smyrna",
+          "La Vergne",
+          "Rockvale"
+        ]
+      },
+      {
+        "city": "Brentwood",
+        "slug": "brentwood-tn",
+        "state": "TN",
+        "content": "Darren Bishop Landscape-Design is proud to serve the prestigious community of Brentwood, Tennessee. Known for its luxury estates on large, wooded lots, Brentwood presents unique landscaping opportunities for creating stunning outdoor spaces that complement the beauty of the natural surroundings. We specialize in designing and installing custom landscapes that reflect the sophisticated tastes of Brentwood homeowners.\n\nOur team has extensive experience working with the specific needs of Brentwood landscapes, from creating elegant gardens to designing outdoor living spaces that are perfect for entertaining. We take into account the hot, humid summers of middle Tennessee when selecting plants and designing irrigation systems, ensuring your landscape thrives year-round. Darren Bishop Landscape-Design is committed to providing top-quality service to the Brentwood community.",
+        "localContext": "Brentwood features luxury estates on wooded lots, calling for landscape designs that enhance the natural beauty and privacy of the properties.",
+        "nearbyAreas": [
+          "Franklin",
+          "Nashville",
+          "Nolensville"
+        ]
+      },
+      {
+        "city": "Hendersonville",
+        "slug": "hendersonville-tn",
+        "state": "TN",
+        "content": "Darren Bishop Landscape-Design is delighted to offer our landscaping services to the charming city of Hendersonville, Tennessee. Situated on the shores of Old Hickory Lake, Hendersonville boasts beautiful lakefront homes and a relaxed lakeside lifestyle. We specialize in creating landscapes that take advantage of the stunning views and enhance the outdoor living experience for Hendersonville residents.\n\nOur team has extensive experience working with the specific needs of lakefront properties, from designing erosion control measures to creating outdoor spaces that are perfect for enjoying the water. We take into account the hot, humid summers of middle Tennessee when selecting plants and designing irrigation systems, ensuring your landscape thrives year-round. Darren Bishop Landscape-Design is committed to providing top-quality service to the Hendersonville community.",
+        "localContext": "Hendersonville boasts lakefront homes on Old Hickory Lake, creating a unique landscape context focused on waterfront living and erosion control.",
+        "nearbyAreas": [
+          "Gallatin",
+          "Goodlettsville",
+          "Madison"
+        ]
+      },
+      {
+        "city": "Nashville",
+        "slug": "nashville-tn",
+        "state": "TN",
+        "content": "Darren Bishop Landscape-Design is proud to call Nashville, Tennessee home and offer our comprehensive landscaping services to the vibrant Music City. From the bustling downtown area to the charming residential neighborhoods, Nashville presents a diverse range of landscaping needs and opportunities. We are committed to creating outdoor spaces that enhance the beauty and functionality of homes and businesses throughout the city.\n\nOur team has extensive experience working with the unique challenges and opportunities presented by Nashville's urban environment. We understand the importance of creating sustainable landscapes that are both beautiful and environmentally friendly. From designing drought-tolerant gardens to installing rainwater harvesting systems, we can help you create a landscape that is both functional and responsible.",
+        "localContext": "Nashville is a dynamic city with diverse neighborhoods, creating a wide range of landscaping styles and needs.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Antioch",
+          "Goodlettsville"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-tn",
+        "state": "TN",
+        "content": "Darren Bishop Landscape-Design extends its services to Smyrna, Tennessee, a rapidly growing town with a strong sense of community. Smyrna's mix of residential and commercial properties presents diverse landscaping opportunities. We focus on creating landscapes that enhance property value and provide enjoyable outdoor spaces for families and businesses.\n\nWe understand the needs of Smyrna residents, offering services from lawn maintenance to full landscape design and installation. Our team is committed to using sustainable practices and selecting plants that thrive in the Tennessee climate. Whether you need a new patio, a vibrant flower bed, or a complete landscape overhaul, Darren Bishop Landscape-Design is ready to transform your Smyrna property.",
+        "localContext": "Smyrna is a growing residential and commercial hub requiring practical and aesthetically pleasing landscaping solutions.",
+        "nearbyAreas": [
+          "Murfreesboro",
+          "La Vergne",
+          "Antioch"
+        ]
+      },
+      {
+        "city": "Gallatin",
+        "slug": "gallatin-tn",
+        "state": "TN",
+        "content": "Darren Bishop Landscape-Design is pleased to offer our landscaping expertise to Gallatin, Tennessee, a city known for its historic charm and vibrant community. Gallatin's mix of historic homes and new developments provides unique opportunities for creating beautiful and functional outdoor spaces. We strive to enhance the beauty of Gallatin properties with thoughtful landscape design and quality installation.\n\nOur team understands the importance of preserving Gallatin's historic character while creating modern outdoor living spaces. We offer a wide range of services, from maintaining established gardens to designing and installing new landscapes. We are committed to using sustainable practices and selecting plants that thrive in the Tennessee climate, ensuring your Gallatin landscape thrives for years to come.",
+        "localContext": "Gallatin's landscape balances historic charm with new development, requiring a sensitive approach to landscape design.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Portland",
+          "White House"
+        ]
+      },
+      {
+        "city": "Spring Hill",
+        "slug": "spring-hill-tn",
+        "state": "TN",
+        "content": "Darren Bishop Landscape-Design is dedicated to providing top-notch landscaping services to Spring Hill, Tennessee, a rapidly growing city with a family-friendly atmosphere. Spring Hill's residential neighborhoods and expanding commercial areas offer a variety of landscaping needs. We focus on creating landscapes that enhance curb appeal, provide functional outdoor spaces, and contribute to the community's overall beauty.\n\nOur team is experienced in designing and installing landscapes that meet the specific needs of Spring Hill residents. We offer services from lawn care and maintenance to complete landscape design and installation. We are committed to using sustainable practices and selecting plants that thrive in the Tennessee climate, ensuring your Spring Hill landscape remains beautiful and healthy.",
+        "localContext": "Spring Hill is a fast-growing family community requiring practical and aesthetically pleasing landscape designs for homes and businesses.",
+        "nearbyAreas": [
+          "Columbia",
+          "Thompson's Station",
+          "Franklin"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Landscape Design & Installation",
+        "text": "Darren and his team completely transformed our backyard! We had a blank slate and they created a beautiful outdoor living space with a patio, fire pit, and lush landscaping. The design process was collaborative, and the installation was seamless. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Hardscaping & Irrigation",
+        "text": "We hired Darren Bishop Landscape-Design to install a retaining wall and irrigation system in our front yard. The wall looks fantastic, and the irrigation system has made it so much easier to keep our lawn green. There were a few minor hiccups during the project, but Darren was quick to address them and ensure our satisfaction.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Outdoor Lighting",
+        "text": "The outdoor lighting that Darren's team installed is absolutely stunning! It has completely transformed the look of our home at night and makes our property feel much safer. The team was professional, efficient, and paid attention to every detail.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Drainage Solutions",
+        "text": "We had a serious drainage problem in our backyard that was causing flooding and erosion. Darren Bishop Landscape-Design installed a French drain that completely solved the problem. We are so grateful for their expertise and professionalism.",
+        "date": "2024-07-12"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Softscaping & Planting",
+        "text": "Darren helped us select the perfect plants for our garden and did an amazing job with the planting. Our yard looks beautiful and vibrant! We're very happy with the results and would definitely use them again.",
+        "date": "2025-01-28"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Landscape Design",
+        "text": "From initial consultation to final walkthrough, Darren was professional, courteous, and incredibly knowledgeable. He listened to our ideas and created a landscape design that exceeded our expectations. We are so excited to see our vision come to life!",
+        "date": "2025-04-03"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Nashville Landscape Design | Darren Bishop",
+        "description": "Expert landscape design and installation in Nashville, TN. Create your dream outdoor space with Darren Bishop Landscape-Design."
+      },
+      "about": {
+        "title": "About Darren Bishop Landscape-Design",
+        "description": "Learn about Darren Bishop Landscape-Design's mission, values, and commitment to the Nashville community. Expert landscaping services."
+      },
+      "services": {
+        "title": "Landscape Services | Nashville, TN",
+        "description": "Comprehensive landscape services in Nashville including design, hardscaping, softscaping, irrigation, lighting, and drainage."
+      },
+      "contact": {
+        "title": "Contact Darren Bishop Landscape-Design",
+        "description": "Contact Darren Bishop Landscape-Design for a free consultation. Serving Nashville, Franklin, Brentwood, Murfreesboro, and Hendersonville."
+      },
+      "reviews": {
+        "title": "Darren Bishop Landscape-Design Reviews",
+        "description": "Read reviews from satisfied customers of Darren Bishop Landscape-Design in Nashville, TN. See our quality landscaping work."
+      },
+      "service-areas": {
+        "title": "Service Areas | Nashville Landscaping",
+        "description": "Darren Bishop Landscape-Design serves Nashville, Franklin, Brentwood, Murfreesboro, and Hendersonville. Expert landscaping services."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "landscape-design": "/images/service-landscape-design.webp",
+      "hardscaping": "/images/service-hardscaping.webp",
+      "softscaping": "/images/service-softscaping.webp",
+      "irrigation-systems": "/images/service-irrigation-systems.webp",
+      "outdoor-lighting": "/images/service-outdoor-lighting.webp",
+      "drainage-solutions": "/images/service-drainage-solutions.webp"
+    },
+    "servicesResponsive": {
+      "landscape-design": {
+        "src": "/images/service-landscape-design.webp",
+        "srcset": "/images/service-landscape-design-400w.webp 400w, /images/service-landscape-design-800w.webp 800w, /images/service-landscape-design-1200w.webp 1200w, /images/service-landscape-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardscaping": {
+        "src": "/images/service-hardscaping.webp",
+        "srcset": "/images/service-hardscaping-400w.webp 400w, /images/service-hardscaping-800w.webp 800w, /images/service-hardscaping-1200w.webp 1200w, /images/service-hardscaping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "softscaping": {
+        "src": "/images/service-softscaping.webp",
+        "srcset": "/images/service-softscaping-400w.webp 400w, /images/service-softscaping-800w.webp 800w, /images/service-softscaping-1200w.webp 1200w, /images/service-softscaping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "irrigation-systems": {
+        "src": "/images/service-irrigation-systems.webp",
+        "srcset": "/images/service-irrigation-systems-400w.webp 400w, /images/service-irrigation-systems-800w.webp 800w, /images/service-irrigation-systems-1200w.webp 1200w, /images/service-irrigation-systems.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-lighting": {
+        "src": "/images/service-outdoor-lighting.webp",
+        "srcset": "/images/service-outdoor-lighting-400w.webp 400w, /images/service-outdoor-lighting-800w.webp 800w, /images/service-outdoor-lighting-1200w.webp 1200w, /images/service-outdoor-lighting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-solutions": {
+        "src": "/images/service-drainage-solutions.webp",
+        "srcset": "/images/service-drainage-solutions-400w.webp 400w, /images/service-drainage-solutions-800w.webp 800w, /images/service-drainage-solutions-1200w.webp 1200w, /images/service-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
